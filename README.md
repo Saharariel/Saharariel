@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sahar Ariel 👋  
 
-<!--
-**Saharariel/Saharariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- Passionate about **DevOps & Software Engineering**, with a love for building, automating, and breaking things to understand how they work.  
+- Strong background in **Python** and **Linux systems**, using them daily for scripting, automation, and problem-solving.  
+- Experienced with **Kubernetes & Docker**, which I mastered hands-on by designing and running my own **Homelab project**.  
+- Always curious—exploring new technologies and practices to keep pushing my skills further.  
+---
 
-Here are some ideas to get you started:
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahar-ariel-73b2a2317/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
